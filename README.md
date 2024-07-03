@@ -7,7 +7,8 @@ This practical application assignment focuses on explore a used car dataset from
 The original dataset contained information on 3 million used cars. The used dataset contains information on 426K cars to ensure speed of processing. The goal is to understand all factors that make a car more or less expensive. As a result of  analysis, dealer should provide clear recommendations to client as to what consumers value in a used car.
 
 All aspect of data visualization has been done using Jupyter Notebook. The link of Notebook is 
-https://github.com/vikashsinha72/UCBMLAI_PA2/
+
+https://github.com/vikashsinha72/UCBMLAI_PA2/blob/main/prompt_II.ipynb
 
 
 
